@@ -1,7 +1,7 @@
-# CryptoPrice-APi--PHP
+# 💥 [-CryptoPrice-APi [v1] By AGC007™-] 💥
 
-CryptoPrice-APi [v1] By AGC007™ -- PHP:
+⏺ با استفاده از این وبسرویس می توانید قیمت ارزهای دیجیتال را دریافت کنید
 
--- PHP
+⏺ Using this api you can get the price of digital currencies
 
-------- Developed by AGC007 -------
+
